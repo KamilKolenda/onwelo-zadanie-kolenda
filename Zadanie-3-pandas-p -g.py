@@ -12,8 +12,6 @@ import pandas as pd
 # In[3]:
 
 
-access_key = 'acces key here'
-secret_access_key = 'secret acces key here'
 nasdaqdatalink.ApiConfig.api_key = 'api key here'
 
 # In[4]:
